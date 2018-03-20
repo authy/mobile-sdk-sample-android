@@ -1,2 +1,1 @@
-include ':twilio-authenticator-sample', ':authenticator'
-project(':authenticator').projectDir = new File('../twilio-authenticator/authenticator')
+include ':twilio-authenticator-sample'
